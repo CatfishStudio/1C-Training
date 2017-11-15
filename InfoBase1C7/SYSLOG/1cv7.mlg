@@ -1,0 +1,7 @@
+20170724;18:54:00;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер SOMOV-PC(m);;
+20170724;18:55:35;;C;Restruct;RestructStart;1;;;
+20170724;18:55:35;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20170724;18:55:42;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20170724;18:55:46;;C;Restruct;RestructCopy;1;;;
+20170724;18:55:49;;C;Restruct;RestructAcptEnd;1;;;
+20170724;18:55:49;;C;Sys;CloseSession;0;;;
